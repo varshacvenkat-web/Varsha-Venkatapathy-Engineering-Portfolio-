@@ -48,17 +48,13 @@ Developed a Long Short-Term Memory (LSTM) deep learning model to forecast quarte
 
 ## Repository Structure
 
-```
 LSTM-Revenue-Forecasting/
-├── lstm-model.ipynb           # Main training notebook
-├── Images/
-│   └── Poster.pptx           # Project presentation
-├── Documentation/
-│   └── Project_Presentation.pdf   # Detailed methodology (if available)
+├── Presentation.pptx          # Bay Area Innovation Day pitch
+├── Poster.pptx               # Technical poster presentation
+├── lstm-model.ipynb          # Code and model implementation
 └── README.md
-```
 
-**Note**: Proprietary data has been excluded to protect company confidentiality. Sample data structure provided for reference.
+**Note**: Proprietary data has been excluded to protect company confidentiality. 
 
 ---
 
