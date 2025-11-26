@@ -12,6 +12,19 @@ This research project develops and evaluates deep learning models for real-time 
 
 Conventional hearing aids struggle to suppress background noise effectively, reducing speech intelligibility for users. This project explores deep learning-based speech enhancement deployed on mobile devices to provide real-time, personalized noise reduction.
 
+## Code Availability
+
+Due to access limitations on my former university lab workstation
+(where the models were originally trained), this repository currently
+includes only the full preprocessing pipeline (data generation,
+noise mixing, and feature extraction) and project documentation
+(poster, references, and results summary).
+
+The CRNN, CNN, RNN, and FCNN training notebooks are described in the
+Methods and Results sections and can be re-implemented directly from
+the cited papers.
+
+
 ## Technical Approach
 
 ### Signal Processing Pipeline
