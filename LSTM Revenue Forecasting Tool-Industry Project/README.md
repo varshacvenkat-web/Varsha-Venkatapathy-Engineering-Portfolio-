@@ -1,6 +1,6 @@
 # LSTM Revenue Forecasting Tool
 
-**Industry Project - **  
+Semiconductor Industry Project - 
 *Varsha Venkatapathy & Harini Gurusankar*
 
 ---
