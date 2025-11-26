@@ -156,9 +156,9 @@ Five-Stacked I-TENG Unit
 
 ### Included Materials
 
-- 📄 **IEEE Format Paper**: Complete technical evaluation and analysis
-- 📊 **Final Presentation**: Visual summary of technology and findings
-- 📁 **Supporting Documentation**: Design specifications and test results
+- **IEEE Format Paper**: Complete technical evaluation and analysis
+- **Final Presentation**: Visual summary of technology and findings
+- **Supporting Documentation**: Design specifications and test results
 
 ---
 
