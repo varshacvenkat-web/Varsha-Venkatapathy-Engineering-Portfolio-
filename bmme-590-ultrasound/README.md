@@ -6,6 +6,11 @@ Status: NSF-Funded Research Project
 ## Project Overview
 This project implements attention-enhanced deep learning for automated breast cancer lesion segmentation and molecular subtype classification from ultrasound images. The work combines signal processing fundamentals with advanced machine learning architectures to enable real-time clinical deployment.
 
+## Dataset
+This project uses the BUSI (Breast Ultrasound Images) dataset, a publicly available collection of expert-annotated B-mode ultrasound volumes for breast lesion segmentation and classification research. The dataset can be accessed through the official repository.
+
+The Colab notebook demonstrates how to mount and process this dataset for training and validation.
+
 ## Key Achievements
 - Implemented attention-enhanced U-Net for automated lesion segmentation
 - Developed ResNet classifier with squeeze-and-excitation blocks
