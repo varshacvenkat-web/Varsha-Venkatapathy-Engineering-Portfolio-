@@ -42,13 +42,13 @@ SpineAlign is a medical monitoring device designed to continuously track and rec
 SpineAlign provides **integrated real-time, continuous load monitoring** to ensure precise treatment adjustments based on actual applied forces and usage duration.
 
 **Key Features:**
-- ✅ **Real-time load monitoring** with built-in LCD display
-- ✅ **Continuous data logging** on SD card (1 week+ storage capacity)
-- ✅ **Long-lasting battery** designed for entire treatment period
-- ✅ **Easy attachment** between halo ring and traction cable
-- ✅ **Portable design** works with walker, wheelchair, or bed setups
-- ✅ **Doctor review capability** via computer during weekly check-ins
-- ✅ **95% measurement accuracy** across full load range
+-  **Real-time load monitoring** with built-in LCD display
+-  **Continuous data logging** on SD card (1 week+ storage capacity)
+-  **Long-lasting battery** designed for entire treatment period
+-  **Easy attachment** between halo ring and traction cable
+-  **Portable design** works with walker, wheelchair, or bed setups
+-  **Doctor review capability** via computer during weekly check-ins
+-  **95% measurement accuracy** across full load range
 
 ---
 
