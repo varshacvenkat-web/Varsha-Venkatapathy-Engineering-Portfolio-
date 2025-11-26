@@ -2,6 +2,7 @@
 
 Semiconductor Industry Project - 
 *Varsha Venkatapathy & Harini Gurusankar*
+
 Presented at Bay Area Innovation Day 2025-Texas Instruments 
 ---
 
