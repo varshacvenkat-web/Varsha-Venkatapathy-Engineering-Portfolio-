@@ -172,6 +172,10 @@ This work contributes to:
 - **anisotropyGraph_phantomInCornstarch.fig**: MATLAB analysis of cornstarch phantom anisotropy data
 - **anisotropyResults_phantomInMilk.fig**: MATLAB analysis of milk phantom anisotropy data
 
+### Data Availability Note
+
+The MATLAB analysis scripts and code used for signal processing and data visualization were developed on a university research desktop computer that is no longer accessible. While the original MATLAB source files (.m files) are unavailable, the analysis results are preserved in the `.fig` files, which contain the processed data and visualizations. Researchers with MATLAB can open and examine these `.fig` files to view the complete analysis pipeline and results. Future work would require reimplementation of the signal processing algorithms based on the methodology described in this README and the original poster.
+
 ## References
 
 [1] M.M. Hossain and C.M. Gallippi, "Electronic point spread function rotation using a three-row transducer for ARFI-based elastic anisotropy assessment: in silico and experimental demonstration," *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*, vol. 68, no. 3, pp. 636-646, 2017.
