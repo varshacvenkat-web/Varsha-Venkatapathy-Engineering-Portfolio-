@@ -16,6 +16,15 @@
 - **Davi Souza**
 - **Varsha Venkatapathy**
 
+## My Contribution
+
+**Varsha Venkatapathy** - Electrical/Software/Firmware Lead
+- Led all electrical system design including PCB schematic development, component selection, and circuit integration
+- Architected and implemented embedded firmware for Arduino-based data acquisition system
+- Developed software for real-time load cell data processing, LCD display output, and SD card logging
+- Configured I2C and SPI communication protocols between microcontroller, load cell amplifier, and storage modules
+- Implemented calibration routines and zeroing functions for accurate load measurement
+- Contributed to mechanical housing design and device assembly
 ---
 
 ## Project Overview
