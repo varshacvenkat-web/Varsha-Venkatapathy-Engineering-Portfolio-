@@ -1,7 +1,7 @@
 # Mechanically Anisotropic Tissue-Mimicking Phantoms for Ultrasound Imaging Protocol Development
 
 **Research Project** | Abrams Scholarship Research | 2023-2024  
-**Authors**: Varsha Venkatapathy, J. Aidan Armstrong, Sabiq Muhtadi, Caterina M. Gallippi  
+**Authors**: Varsha Venkatapathy, **PI**: J. Aidan Armstrong, Sabiq Muhtadi, Caterina M. Gallippi  
 **Institution**: Joint Department of Biomedical Engineering, UNC Chapel Hill & NC State University
 
 ## Project Overview
