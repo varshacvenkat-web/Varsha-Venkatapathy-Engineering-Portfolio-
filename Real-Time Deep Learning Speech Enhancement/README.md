@@ -1,8 +1,7 @@
 # Speech Enhancement for Hearing-Impaired Patients Using Deep Learning and Real-Time Smartphone Deployment
 
 **Research Project** | Abrams Scholars Program, Spring 2025  
-**Authors**: Varsha Venkatapathy, Muhammad Patel
- **PI**: Arian Azarang, Virginie Papadopoulou  
+**Authors**: Varsha Venkatapathy, Muhammad Pate, Arian Azarang, Virginie Papadopoulou  
 **Institution**: Lampe Joint Department of Biomedical Engineering, UNC Chapel Hill & NC State University
 
 ---
